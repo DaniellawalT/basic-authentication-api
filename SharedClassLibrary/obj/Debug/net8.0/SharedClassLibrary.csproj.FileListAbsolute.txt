@@ -1,0 +1,13 @@
+C:\Users\Daniel Lawal\Source\Repos\DemoCustomJwtDotNet8BlazorWasmAuthAndAuthWithIdentityManagerSolution\SharedClassLibrary\bin\Debug\net8.0\SharedClassLibrary.deps.json
+C:\Users\Daniel Lawal\Source\Repos\DemoCustomJwtDotNet8BlazorWasmAuthAndAuthWithIdentityManagerSolution\SharedClassLibrary\bin\Debug\net8.0\SharedClassLibrary.dll
+C:\Users\Daniel Lawal\Source\Repos\DemoCustomJwtDotNet8BlazorWasmAuthAndAuthWithIdentityManagerSolution\SharedClassLibrary\bin\Debug\net8.0\SharedClassLibrary.pdb
+C:\Users\Daniel Lawal\Source\Repos\DemoCustomJwtDotNet8BlazorWasmAuthAndAuthWithIdentityManagerSolution\SharedClassLibrary\obj\Debug\net8.0\SharedClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Daniel Lawal\Source\Repos\DemoCustomJwtDotNet8BlazorWasmAuthAndAuthWithIdentityManagerSolution\SharedClassLibrary\obj\Debug\net8.0\SharedClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Lawal\Source\Repos\DemoCustomJwtDotNet8BlazorWasmAuthAndAuthWithIdentityManagerSolution\SharedClassLibrary\obj\Debug\net8.0\SharedClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Daniel Lawal\Source\Repos\DemoCustomJwtDotNet8BlazorWasmAuthAndAuthWithIdentityManagerSolution\SharedClassLibrary\obj\Debug\net8.0\SharedClassLibrary.AssemblyInfo.cs
+C:\Users\Daniel Lawal\Source\Repos\DemoCustomJwtDotNet8BlazorWasmAuthAndAuthWithIdentityManagerSolution\SharedClassLibrary\obj\Debug\net8.0\SharedClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Lawal\Source\Repos\DemoCustomJwtDotNet8BlazorWasmAuthAndAuthWithIdentityManagerSolution\SharedClassLibrary\obj\Debug\net8.0\SharedClassLibrary.sourcelink.json
+C:\Users\Daniel Lawal\Source\Repos\DemoCustomJwtDotNet8BlazorWasmAuthAndAuthWithIdentityManagerSolution\SharedClassLibrary\obj\Debug\net8.0\SharedClassLibrary.dll
+C:\Users\Daniel Lawal\Source\Repos\DemoCustomJwtDotNet8BlazorWasmAuthAndAuthWithIdentityManagerSolution\SharedClassLibrary\obj\Debug\net8.0\refint\SharedClassLibrary.dll
+C:\Users\Daniel Lawal\Source\Repos\DemoCustomJwtDotNet8BlazorWasmAuthAndAuthWithIdentityManagerSolution\SharedClassLibrary\obj\Debug\net8.0\SharedClassLibrary.pdb
+C:\Users\Daniel Lawal\Source\Repos\DemoCustomJwtDotNet8BlazorWasmAuthAndAuthWithIdentityManagerSolution\SharedClassLibrary\obj\Debug\net8.0\ref\SharedClassLibrary.dll
